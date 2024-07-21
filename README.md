@@ -1,15 +1,15 @@
 # An Online E-Mail Validator 
 
-
+![ss](https://github.com/user-attachments/assets/7acbdc5a-f031-41a4-b894-07d6c621fd8f)
 
 
 ## About 
 
-This is a web-based E-Mail Validator built using HTML, CSS and JavaScript. It's used to check whether the email address provided by you is correct or not.
+This is a web-based E-Mail Validator built using HTML, CSS, and JavaScript. It's used to check whether the email address you provided is correct or not.
 
 ## Features  
 
-
+Easy to use and go-to web-based application
 
 ## Installation 
 
