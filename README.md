@@ -19,7 +19,7 @@ Easy to use and go-to web-based application
 
 ## How to use?
 
-Simply enter the email address you want to validate and click on the check button in order to check it's validity.
+Simply enter the email address you want to validate and click on the submit button in order to check it's validity.
 
 ## Contributions
 
