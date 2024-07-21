@@ -1,4 +1,4 @@
-# An Online E-Mail Validator 
+# An E-Mail Validator 
 
 ![ss](https://github.com/user-attachments/assets/7acbdc5a-f031-41a4-b894-07d6c621fd8f)
 
@@ -13,7 +13,7 @@ Easy to use and go-to web-based application
 
 ## Installation 
 
-1. Clone the repository: `git clone https://github.com/your-username/E-Mail_Validator.git`
+1. Clone the repository: `https://github.com/19kirti/E-Mail_Validator.git`
 2. Open the project folder: `cd EMail_Validator`
 3. Open `index.html` in your preferred web browser.
 
